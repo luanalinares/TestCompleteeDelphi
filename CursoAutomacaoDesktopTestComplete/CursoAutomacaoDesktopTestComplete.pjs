@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{C5FCD6E1-923C-4230-888A-A78A57BD4100}">
+	<children>
+		<child name="CursoAutomacaoDesktopTestComplete" key="{764E42B1-7AE6-4DE1-BCDF-DAFD0FE72EED}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="CursoAutomacaoDesktopTestComplete\CursoAutomacaoDesktopTestComplete.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{9AC5DFC1-916E-4D05-9454-F960F64386ED}">
+		<children>
+			<testItem key="{764E42B1-7AE6-4DE1-BCDF-DAFD0FE72EED}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{0D4113E2-30F2-439C-89BF-8992F861D52C}">
+		<data Version="3">
+			<Items>
+				<Variable Name="DataAtual" Type="{123F0C0F-44B4-4BAF-B0E6-F3F89FD873B5}" Local="False">
+					<DefValue />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{1183B885-3996-47DE-8BC0-774EAE402B18}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+</Root>
